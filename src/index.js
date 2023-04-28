@@ -15,7 +15,7 @@ const router = createBrowserRouter([
     element: <Home />,
     children: [
       {
-        path: "/",
+        path: "crypto-search-app/",
         element: <Crypto />,
         children: [
           {
