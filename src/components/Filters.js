@@ -2,7 +2,6 @@ import React, { useContext, useRef } from "react"
 import Search from "./Search"
 import submitIcon from "../assets/submit-icon.svg"
 import selectIcon from "../assets/select-icon.svg"
-
 import { CryptoContext } from "./../context/CryptoContext"
 
 const Filters = () => {
